@@ -1,0 +1,18 @@
+:root {
+  /* site color*/
+  --accent-color: rgba(33, 150, 243, 1);
+  --hover-background-color: #188ce8;
+  --black-color: rgba(33, 33, 33, 1);
+  --primary-background-color: rgba(47, 48, 58, 1);
+  /* text color*/
+  --secondary-color: rgba(33, 33, 33, 1);
+  --primary-color: rgba(117, 117, 117, 1);
+  --white-color: rgba(255, 255, 255, 1);
+  /*adjective colors*/
+  --secondary-background-color: rgba(245, 244, 250, 1);
+  --address-primary-color: rgba(255, 255, 255, 0.6);
+  /* Card*/
+  --card-set-gap: 30px;
+  /* border*/
+  --border-color: rgba(236, 236, 236, 1);
+}
